@@ -20,7 +20,7 @@
     "chalk": "^4.1.2",
     "crypto-js": "^4.2.0",
     "cheerio": "^1.0.0-rc.12",
-    "cookie": "^0.5.0",
+    "cookie": "^1.0.2",
     "child_process": "^1.0.2",
     "dotenv": "^16.4.5",
     "events": "^3.3.0",
